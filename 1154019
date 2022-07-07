@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	
+		<title>Lists</title>
+	</head>
+	<body>
+		<h2>Ordered and Unordered List</h2>
+		<ul>
+			<li>Banana</li>
+			<li>Milk</li>
+			<li>Sardines</li>
+		</ul>
+		<ol>
+			<li>Make Bed</li>
+			<li>Lists Example</li>
+			<li>Make progress</li>
+		</ol>
+		<ul>
+			<li>Japan</li>
+			<li>America</li>
+			<li>S. Korea</li>
+		</ul>
+		<ol>
+			<li>Monster Hunter Freedon Unite</li>
+			<li>Otherworld Legends</li>
+			<li>One piece</li>
+		</ol>
+	</body>
+</html
