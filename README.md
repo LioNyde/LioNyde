@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**LioNyde/LioNyde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on javascriot courses
+- 🌱 I’m currently learning javascript 
+- 👯 I’m looking to collaborate onto shared knowledge
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
